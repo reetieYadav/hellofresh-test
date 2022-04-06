@@ -1,0 +1,9 @@
+{
+  "db_details": {
+    "database": "demodb",
+    "host": "localhost",
+    "user": "demodb",
+    "password": "admin",
+    "port": 5434
+  }
+}
